@@ -1,1 +1,1 @@
-# bibliotekasamiut.al
+# bibliotekasamiut.com
