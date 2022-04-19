@@ -1,0 +1,115 @@
+.h1 h1{
+    text-align: center;
+}
+#book {
+    background-image: url(black.png);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+#book h3{
+    margin-bottom: 1,5%;
+    text-align: center;
+    color: white;
+}
+#book img {
+    width: 200px;
+    border-radius: 10px;
+    border: 4px solid #000;
+    margin: auto;
+}
+.info{
+    margin-top: 4%;
+    margin-left: 3%;
+    margin-bottom: 4%;
+    background-color: orangered;
+    padding: 0.7rem 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+}
+.dhender img{
+    height: 200px;
+    width: fit-content;
+}
+.tom img {
+    height: 200px;
+    width: fit-content;
+}
+.bageti img {
+    height: 200px;
+    width: fit-content;
+}
+.deshtaku img {
+    height: 200px;
+    width: fit-content;
+}
+#book1 {
+    margin-top: 0.5%;
+    background-image: url(red.png);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+#book1 h3 {
+    margin-bottom: 0.8%;
+    text-align: center;
+    color: white;
+}
+#book1 img {
+    width: 200px;
+    border-radius: 10px;
+    border: 4px solid #000;
+    margin: auto;
+}
+.pizhame img {
+    height: 200px;
+    width: fit-content;
+}
+.balona img {
+    height: 200px;
+    width: fit-content;
+}
+.hajdutja img {
+    height: 200px;
+    width: fit-content;
+}
+.milioneri img {
+    height: 200px;
+    width: fit-content;
+}
+#book2 {
+    margin-top: 0.5%;
+    background-image: url(white.jpg);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+#book2 h3 {
+    color: black;
+    margin-bottom: 0.8%;
+    text-align: center;
+}
+#book2 img {
+    width: 200px;
+    border-radius: 10px;
+    border: 4px solid #000;
+    margin: auto;
+}
+.neser img {
+    height: 200px;
+    width: fit-content;
+}
+.pallati img {
+    height: 200px;
+    width: fit-content;
+}
+.shoku img {
+    height: 200px;
+    width: fit-content;
+}
+.tregime img {
+    height: 200px;
+    width: fit-content;
+}
